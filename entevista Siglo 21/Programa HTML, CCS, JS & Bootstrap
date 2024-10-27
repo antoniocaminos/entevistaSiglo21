@@ -1,0 +1,84 @@
+Programa Curricular: HTML, CSS, JavaScript y Bootstrap
+Objetivos del Curso
+Desarrollar competencias en la creación de páginas web interactivas y estilizadas.
+Aprender a utilizar HTML y CSS para estructurar y diseñar contenido.
+Dominar JavaScript para implementar funcionalidades dinámicas.
+Integrar Bootstrap para el diseño responsivo y componentes predefinidos.
+Módulo 1: HTML
+1.1 Introducción a HTML
+Concepto de HTML y su papel en la web.
+Estructura básica de un documento HTML.
+Declaración del tipo de documento (<!DOCTYPE>).
+Etiquetas HTML: <html>, <head>, <body>.
+1.2 Elementos y Atributos
+Elementos en línea vs. bloques.
+Atributos globales y específicos.
+Ejemplos de etiquetas:
+Encabezados (<h1> a <h6>)
+Párrafos (<p>)
+Listas (<ul>, <ol>, <li>)
+Enlaces (<a>)
+Imágenes (<img>)
+1.3 Formulario y Entrada de Datos
+Creación de formularios (<form>).
+Tipos de campos de entrada (<input>, <textarea>, <select>).
+Atributos de validación y diseño accesible.
+1.4 Multimedia
+Incorporación de video y audio (<video>, <audio>).
+Uso de <iframe> para insertar contenido externo.
+Módulo 2: CSS
+2.1 Introducción a CSS
+Concepto y propósito de CSS.
+Sintaxis de CSS: selectores, propiedades y valores.
+2.2 Selectores y Especificidad
+Selectores de tipo, clase y ID.
+Selectores compuestos y pseudo-clases.
+Especificidad y cascada.
+2.3 Estilización de Elementos
+Propiedades de texto: fuente, tamaño, color, alineación.
+Propiedades de fondo: color, imágenes y gradientes.
+Estilos de borde y sombras.
+2.4 Layout y Diseño
+Modelo de caja: márgenes, bordes, padding y contenido.
+Posicionamiento: estático, relativo, absoluto y fijo.
+Diseño responsivo con unidades relativas (em, rem, %, vh, vw).
+2.5 Flexbox y Grid
+Introducción a Flexbox: propiedades y ejemplos.
+Uso de CSS Grid para layouts complejos.
+Comparación entre Flexbox y Grid.
+Módulo 3: JavaScript
+3.1 Introducción a JavaScript
+Historia y propósito de JavaScript.
+Sintaxis básica: variables, tipos de datos y operadores.
+3.2 Estructuras de Control
+Condicionales: if, else, switch.
+Bucles: for, while, do...while.
+3.3 Funciones y Objetos
+Declaración y expresión de funciones.
+Ámbito y closures.
+Introducción a objetos y arreglos: creación, manipulación y métodos.
+3.4 DOM y Eventos
+Comprender el DOM y su estructura.
+Métodos de selección de elementos (getElementById, querySelector).
+Manejo de eventos: addEventListener, eventos de mouse y teclado.
+3.5 AJAX y Fetch API
+Concepto de AJAX y su uso en aplicaciones web.
+Uso de la Fetch API para realizar solicitudes HTTP.
+Manejo de respuestas y promesas.
+Módulo 4: Bootstrap
+4.1 Introducción a Bootstrap
+Historia y beneficios de usar Bootstrap.
+Estructura de un proyecto Bootstrap.
+4.2 Sistema de Grid
+Comprender el sistema de grid de Bootstrap (12 columnas).
+Uso de clases responsivas para diseño adaptativo.
+4.3 Componentes de Bootstrap
+Navegación: Navbar y Breadcrumb.
+Botones y formularios estilizados.
+Alertas, modales y popovers.
+4.4 Utilidades y Customización
+Clases de utilidad para márgenes, padding, colores y tipografía.
+Personalización de Bootstrap mediante Sass.
+Integración de Bootstrap con JavaScript para componentes dinámicos.
+Recursos adicionales:
+Documentación oficial de MDN Web Docs, W3Schools y Bootstrap.
